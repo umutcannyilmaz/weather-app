@@ -1,0 +1,651 @@
+[
+    {
+      "kimlik" : 1 ,
+      "isim" : " Adana " ,
+      "enlem" : " 37.0000 " ,
+      "boylam" : " 35.3213 " ,
+      "nüfus" : 2183167 ,
+      "bölge" : " Akdeniz "
+    },
+    {
+      "kimlik" : 2 ,
+      "isim" : " Adıyaman " ,
+      "enlem" : " 37.7648 " ,
+      "boylam" : " 38.2786 " ,
+      "nüfus" : 602774 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 3 ,
+      "isim" : " Afyonkarahisar " ,
+      "enlem" : " 38.7507 " ,
+      "boylam" : " 30.5567 " ,
+      "nüfus" : 709015 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 4 ,
+      "isim" : " Ağrı " ,
+      "enlem" : " 39.7191 " ,
+      "boylam" : " 43.0503 " ,
+      "nüfus" : 547210 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 5 ,
+      "isim" : " Amasya " ,
+      "enlem" : " 40.6499 " ,
+      "boylam" : " 35.8353 " ,
+      "nüfus" : 322167 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 6 ,
+      "isim" : " Ankara " ,
+      "enlem" : " 39.9208 " ,
+      "boylam" : " 32.8541 " ,
+      "nüfus" : 5270575 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 7 ,
+      "isim" : " Antalya " ,
+      "enlem" : " 36.8841 " ,
+      "boylam" : " 30.7056 " ,
+      "nüfus" : 2288456 ,
+      "bölge" : " Akdeniz "
+    },
+    {
+      "kimlik" : 8 ,
+      "isim" : " Artvin " ,
+      "enlem" : " 41.1828 " ,
+      "boylam" : " 41.8183 " ,
+      "nüfus" : 168370 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 9 ,
+      "isim" : " Aydın " ,
+      "enlem" : " 37.8560 " ,
+      "boylam" : " 27.8416 " ,
+      "nüfus" : 1053506 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 10 ,
+      "isim" : " Balıkesir " ,
+      "enlem" : " 39.6484 " ,
+      "boylam" : " 27.8826 " ,
+      "nüfus" : 1186688 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 11 ,
+      "isim" : " Bilecik " ,
+      "enlem" : " 40.0567 " ,
+      "boylam" : " 30.0665 " ,
+      "nüfus" : 212361 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 12 ,
+      "isim" : " Bingöl " ,
+      "enlem" : " 39.0626 " ,
+      "boylam" : " 40.7696 " ,
+      "nüfus" : 267184 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 13 ,
+      "isim" : " Bitlis " ,
+      "enlem" : " 38.3938 " ,
+      "boylam" : " 42.1232 " ,
+      "nüfus" : 267184 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 14 ,
+      "isim" : " Bolu " ,
+      "enlem" : " 40.5760 " ,
+      "boylam" : " 31.5788 " ,
+      "nüfus" : 291095 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 15 ,
+      "isim" : " Burdur " ,
+      "enlem" : " 37.4613 " ,
+      "boylam" : " 30.0665 " ,
+      "nüfus" : 258339 ,
+      "bölge" : " Akdeniz "
+    },
+    {
+      "kimlik" : 16 ,
+      "isim" : " Bursa " ,
+      "enlem" : " 40.2669 " ,
+      "boylam" : " 29.0634 " ,
+      "nüfus" : 2842547 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 17 ,
+      "isim" : " Çanakkale " ,
+      "enlem" : " 40.1553 " ,
+      "boylam" : " 26.4142 " ,
+      "nüfus" : 513341 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 18 ,
+      "isim" : " Çankırı " ,
+      "enlem" : " 40.6013 " ,
+      "boylam" : " 33.6134 " ,
+      "nüfus" : 180945 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 19 ,
+      "isim" : " Çorum " ,
+      "enlem" : " 40.5506 " ,
+      "boylam" : " 34.9556 " ,
+      "nüfus" : 525180 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 20 ,
+      "isim" : " Denizli " ,
+      "enlem" : " 37.7765 " ,
+      "boylam" : " 29.0864 " ,
+      "nüfus" : 993442 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 21 ,
+      "isim" : " Diyarbakır " ,
+      "enlem" : " 37.9144 " ,
+      "boylam" : " 40.2306 " ,
+      "nüfus" : 1654196 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 22 ,
+      "isim" : " Edirne " ,
+      "enlem" : " 41.6818 " ,
+      "boylam" : " 26.5623 " ,
+      "nüfus" : 402537 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 23 ,
+      "isim" : " Elâzığ " ,
+      "enlem" : " 38.6810 " ,
+      "boylam" : " 39.2264 " ,
+      "nüfus" : 574304 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 24 ,
+      "isim" : " Erzincan " ,
+      "enlem" : " 39.7500 " ,
+      "boylam" : " 39.5000 " ,
+      "nüfus" : 222918 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 25 ,
+      "isim" : " Erzurum " ,
+      "enlem" : " 39.9000 " ,
+      "boylam" : " 41.2700 " ,
+      "nüfus" : 762321 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 26 ,
+      "isim" : " Eskişehir " ,
+      "enlem" : " 39.7767 " ,
+      "boylam" : " 30.5206 " ,
+      "nüfus" : 826716 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 27 ,
+      "isim" : " Gaziantep " ,
+      "enlem" : " 37.0662 " ,
+      "boylam" : " 37.3833 " ,
+      "nüfus" : 1931836 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 28 ,
+      "isim" : " Giresun " ,
+      "enlem" : " 40.9128 " ,
+      "boylam" : " 38.3895 " ,
+      "nüfus" : 426686 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 29 ,
+      "isim" : " Gümüşhane " ,
+      "enlem" : " 40.4386 " ,
+      "boylam" : " 39.5086 " ,
+      "nüfus" : 151449 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 30 ,
+      "isim" : " Hakkâri " ,
+      "enlem" : " 37.5833 " ,
+      "boylam" : " 43.7333 " ,
+      "nüfus" : 278775 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 31 ,
+      "isim" : " Hatay " ,
+      "enlem" : " 36.4018 " ,
+      "boylam" : " 36.3498 " ,
+      "nüfus" : 1533507 ,
+      "bölge" : " Akdeniz "
+    },
+    {
+      "kimlik" : 32 ,
+      "isim" : " Isparta " ,
+      "enlem" : " 37.7648 " ,
+      "boylam" : " 30.5566 " ,
+      "nüfus" : 421766 ,
+      "bölge" : " Akdeniz "
+    },
+    {
+      "kimlik" : 33 ,
+      "isim" : " Mersin " ,
+      "enlem" : " 36.8000 " ,
+      "boylam" : " 34.6333 " ,
+      "nüfus" : 1745221 ,
+      "bölge" : " Akdeniz "
+    },
+    {
+      "kimlik" : 34 ,
+      "isim" : " İstanbul " ,
+      "enlem" : " 41.0053 " ,
+      "boylam" : " 28.9770 " ,
+      "nüfus" : 14657434 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 35 ,
+      "isim" : " İzmir " ,
+      "enlem" : " 38.4189 " ,
+      "boylam" : " 27.1287 " ,
+      "nüfus" : 4168415 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 36 ,
+      "isim" : " Kars " ,
+      "enlem" : " 40.6167 " ,
+      "boylam" : " 43.1000 " ,
+      "nüfus" : 292660 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 37 ,
+      "isim" : " Kastamonu " ,
+      "enlem" : " 41.3887 " ,
+      "boylam" : " 33.7827 " ,
+      "nüfus" : 372633 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 38 ,
+      "isim" : " Kayseri " ,
+      "enlem" : " 38.7312 " ,
+      "boylam" : " 35.4787 " ,
+      "nüfus" : 1341056 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 39 ,
+      "isim" : " Kırklareli " ,
+      "enlem" : " 41.7333 " ,
+      "boylam" : " 27.2167 " ,
+      "nüfus" : 346973 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 40 ,
+      "isim" : " Kırşehir " ,
+      "enlem" : " 39.1425 " ,
+      "boylam" : " 34.1709 " ,
+      "nüfus" : 225562 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 41 ,
+      "isim" : " Kocaeli " ,
+      "enlem" : " 40.8533 " ,
+      "boylam" : " 29.8815 " ,
+      "nüfus" : 1780055 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 42 ,
+      "isim" : " Konya " ,
+      "enlem" : " 37.8667 " ,
+      "boylam" : " 32.4833 " ,
+      "nüfus" : 2130544 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 43 ,
+      "isim" : " Kütahya " ,
+      "enlem" : " 39.4167 " ,
+      "boylam" : " 29.9833 " ,
+      "nüfus" : 571463 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 44 ,
+      "isim" : " Malatya " ,
+      "enlem" : " 38.3552 " ,
+      "boylam" : " 38.3095 " ,
+      "nüfus" : 772904 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 45 ,
+      "isim" : " Manisa " ,
+      "enlem" : " 38.6191 " ,
+      "boylam" : " 27.4289 " ,
+      "nüfus" : 1380366 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 46 ,
+      "isim" : " Kahramanmaraş " ,
+      "enlem" : " 37.5858 " ,
+      "boylam" : " 36.9371 " ,
+      "nüfus" : 1096610 ,
+      "bölge" : " Akdeniz "
+    },
+    {
+      "kimlik" : 47 ,
+      "isim" : " Mardin " ,
+      "enlem" : " 37.3212 " ,
+      "boylam" : " 40.7245 " ,
+      "nüfus" : 796591 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 48 ,
+      "isim" : " Muğla " ,
+      "enlem" : " 37.2153 " ,
+      "boylam" : " 28.3636 " ,
+      "nüfus" : 908877 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 49 ,
+      "isim" : " Muş " ,
+      "enlem" : " 38.9462 " ,
+      "boylam" : " 41.7539 " ,
+      "nüfus" : 408728 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 50 ,
+      "isim" : " Nevşehir " ,
+      "enlem" : " 38.6939 " ,
+      "boylam" : " 34.6857 " ,
+      "nüfus" : 286767 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 51 ,
+      "isim" : " Niğde " ,
+      "enlem" : " 37.9667 " ,
+      "boylam" : " 34.6833 " ,
+      "nüfus" : 346114 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 52 ,
+      "isim" : " Ordu " ,
+      "enlem" : " 40.9839 " ,
+      "boylam" : " 37.8764 " ,
+      "nüfus" : 728949 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 53 ,
+      "isim" : " Rize " ,
+      "enlem" : " 41.0201 " ,
+      "boylam" : " 40.5234 " ,
+      "nüfus" : 328979 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 54 ,
+      "isim" : " Sakarya " ,
+      "enlem" : " 40.6940 " ,
+      "boylam" : " 30.4358 " ,
+      "nüfus" : 953181 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 55 ,
+      "isim" : " Samsun " ,
+      "enlem" : " 41.2928 " ,
+      "boylam" : " 36.3313 " ,
+      "nüfus" : 1279884 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 56 ,
+      "isim" : " Siirt " ,
+      "enlem" : " 37.9333 " ,
+      "boylam" : " 41.9500 " ,
+      "nüfus" : 320351 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 57 ,
+      "isim" : " Sinop " ,
+      "enlem" : " 42.0231 " ,
+      "boylam" : " 35.1531 " ,
+      "nüfus" : 204133 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 58 ,
+      "isim" : " Sivas " ,
+      "enlem" : " 39.7477 " ,
+      "boylam" : " 37.0179 " ,
+      "nüfus" : 618617 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 59 ,
+      "isim" : " Tekirdağ " ,
+      "enlem" : " 40.9833 " ,
+      "boylam" : " 27.5167 " ,
+      "nüfus" : 937910 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 60 ,
+      "isim" : " Tokat " ,
+      "enlem" : " 40.3167 " ,
+      "boylam" : " 36.5500 " ,
+      "nüfus" : 593990 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 61 ,
+      "isim" : " Trabzon " ,
+      "enlem" : " 41.0015 " ,
+      "boylam" : " 39.7178 " ,
+      "nüfus" : 768417 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 62 ,
+      "isim" : " Tunceli " ,
+      "enlem" : " 39.3074 " ,
+      "boylam" : " 39.4388 " ,
+      "nüfus" : 86076 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 63 ,
+      "isim" : " Şanlıurfa " ,
+      "enlem" : " 37.1591 " ,
+      "boylam" : " 38.7969 " ,
+      "nüfus" : 1892320 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 64 ,
+      "isim" : " Uşak " ,
+      "enlem" : " 38.6823 " ,
+      "boylam" : " 29.4082 " ,
+      "nüfus" : 353048 ,
+      "bölge" : " Ege "
+    },
+    {
+      "kimlik" : 65 ,
+      "isim" : " Van " ,
+      "enlem" : " 38.4891 " ,
+      "boylam" : " 43.4089 " ,
+      "nüfus" : 1096397 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 66 ,
+      "isim" : " Yozgat " ,
+      "enlem" : " 39.8181 " ,
+      "boylam" : " 34.8147 " ,
+      "nüfus" : 419440 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 67 ,
+      "isim" : " Zonguldak " ,
+      "enlem" : " 41.4564 " ,
+      "boylam" : " 31.7987 " ,
+      "nüfus" : 595907 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 68 ,
+      "isim" : " Aksaray " ,
+      "enlem" : " 38.3687 " ,
+      "boylam" : " 34.0370 " ,
+      "nüfus" : 386514 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 69 ,
+      "isim" : " Bayburt " ,
+      "enlem" : " 40.2552 " ,
+      "boylam" : " 40.2249 " ,
+      "nüfus" : 78550 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 70 ,
+      "isim" : " Karaman " ,
+      "enlem" : " 37.1759 " ,
+      "boylam" : " 33.2287 " ,
+      "nüfus" : 242196 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 71 ,
+      "isim" : " Kırıkkale " ,
+      "enlem" : " 39.8468 " ,
+      "boylam" : " 33.5153 " ,
+      "nüfus" : 270271 ,
+      "bölge" : " İç Anadolu "
+    },
+    {
+      "kimlik" : 72 ,
+      "isim" : " Batman " ,
+      "enlem" : " 37.8812 " ,
+      "boylam" : " 41.1351 " ,
+      "nüfus" : 566633 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 73 ,
+      "isim" : " Şırnak " ,
+      "enlem" : " 37.4187 " ,
+      "boylam" : " 42.4918 " ,
+      "nüfus" : 490184 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 74 ,
+      "isim" : " Bartın " ,
+      "enlem" : " 41.5811 " ,
+      "boylam" : " 32.4610 " ,
+      "nüfus" : 190708 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 75 ,
+      "isim" : " Ardahan " ,
+      "enlem" : " 41.1105 " ,
+      "boylam" : " 42.7022 " ,
+      "nüfus" : 99265 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 76 ,
+      "isim" : " Iğdır " ,
+      "enlem" : " 39.8880 " ,
+      "boylam" : " 44.0048 " ,
+      "nüfus" : 192435 ,
+      "bölge" : " Doğu Anadolu "
+    },
+    {
+      "kimlik" : 77 ,
+      "isim" : " Yalova " ,
+      "enlem" : " 40.6500 " ,
+      "boylam" : " 29.2667 " ,
+      "nüfus" : 233009 ,
+      "bölge" : " Marmara "
+    },
+    {
+      "kimlik" : 78 ,
+      "isim" : " Karabük " ,
+      "enlem" : " 41.2061 " ,
+      "boylam" : " 32.6204 " ,
+      "nüfus" : 236978 ,
+      "bölge" : " Karadeniz "
+    },
+    {
+      "kimlik" : 79 ,
+      "isim" : " Kilis " ,
+      "enlem" : " 36.7184 " ,
+      "boylam" : " 37.1212 " ,
+      "nüfus" : 130655 ,
+      "bölge" : " Güneydoğu Anadolu "
+    },
+    {
+      "kimlik" : 80 ,
+      "isim" : " Osmaniye " ,
+      "enlem" : " 37.2130 " ,
+      "boylam" : " 36.1763 " ,
+      "nüfus" : 512873 ,
+      "bölge" : " Akdeniz "
+    },
+    {
+      "kimlik" : 81 ,
+      "isim" : " Düzce " ,
+      "enlem" : " 40.8438 " ,
+      "boylam" : " 31.1565 " ,
+      "nüfus" : 360388 ,
+      "bölge" : " Karadeniz "
+    }
+
+  ]
